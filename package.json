@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Logan-Bonnesen/pooch-pouch-program/issues"
   },
-  "homepage": "https://github.com/Logan-Bonnesen/pooch-pouch-program#readme"
+  "homepage": "https://github.com/Logan-Bonnesen/pooch-pouch-program#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
