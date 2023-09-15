@@ -1,0 +1,16 @@
+.navbar-custom-colors {
+    background-color: lightseagreen;
+    color: lightsalmon;
+}
+
+.text-custom-color {
+    color: lightsalmon
+}
+
+.background-custom-color {
+    background-color: lightseagreen;
+}
+
+#myButton.btn-outline-success {
+    border-color: lightsalmon; /* Change the outline color to lightsalmon */
+}
